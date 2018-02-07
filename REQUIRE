@@ -1,0 +1,11 @@
+julia 0.6
+Graphs 0.7.1
+ProtoBuf
+JSON
+FactCheck
+CloudGraphs
+Compat 0.18
+KernelDensityEstimate
+RoME
+IncrementalInference
+Distributions
