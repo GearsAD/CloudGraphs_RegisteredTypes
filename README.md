@@ -1,2 +1,2 @@
 # CloudGraphs_RegisteredTypes
-Repo for the common types used in Caesar.jl
+Single repo reference for registering the common types without importing the solver.
